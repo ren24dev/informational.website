@@ -18,6 +18,9 @@ img {
 .wrapper {
     inline-size: 900px;
     margin-inline: auto;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;      
 }
 
 .primary-navigation a {
@@ -42,13 +45,7 @@ h2 {
 h3 {
     color: orange;
 }
+
 section {
     margin-block: 50px;
-}
-footer {
-    background-color:#22466c;
-    color:#ffffff;
-    text-align: center;
-    padding: 20px;
-    font-family: sans-serif;
 }
