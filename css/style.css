@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+    font-size: 3rem;
+    line-height: 1;
+}
+
+p {
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+img {
+  max-inline-size: 100%;
+  display: block;
+}
+
+.wrapper {
+    inline-size: 900px;
+    margin-inline: auto;
+}
+
+.primary-navigation a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.teal-text {
+    color: #22466c;
+}
+
+h1 {
+    font-size: 7rem;
+    text-align: left;
+}
+
+h2 {
+    color: #22466c;
+}
+
+h3 {
+    color: orange;
+}
+section {
+    margin-block: 50px;
+}
+footer {
+    background-color:#22466c;
+    color:#ffffff;
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
